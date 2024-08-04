@@ -1,3 +1,3 @@
-http://localhost:6771/?address=Hyderabad
-http://localhost:6771/?address=Nalgonda
-http://localhost:6771/?address=Vijayawada
+https://weather-app-s1ij.onrender.com/city/Hyderabad
+
+https://weather-app-s1ij.onrender.com/city/Vijayawada
